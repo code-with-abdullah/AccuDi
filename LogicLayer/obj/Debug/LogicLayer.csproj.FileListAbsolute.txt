@@ -1,0 +1,13 @@
+F:\office projects\UPVC_Inventory\LogicLayer\bin\Debug\UPVC_DB.mdf
+F:\office projects\UPVC_Inventory\LogicLayer\bin\Debug\UPVC_DB_log.ldf
+F:\office projects\UPVC_Inventory\LogicLayer\bin\Debug\LogicLayer.dll.config
+F:\office projects\UPVC_Inventory\LogicLayer\bin\Debug\LogicLayer.dll
+F:\office projects\UPVC_Inventory\LogicLayer\bin\Debug\LogicLayer.pdb
+F:\office projects\UPVC_Inventory\LogicLayer\bin\Debug\DataLinkLayer.dll
+F:\office projects\UPVC_Inventory\LogicLayer\bin\Debug\DataLinkLayer.pdb
+F:\office projects\UPVC_Inventory\LogicLayer\bin\Debug\DataLinkLayer.dll.config
+F:\office projects\UPVC_Inventory\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+F:\office projects\UPVC_Inventory\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+F:\office projects\UPVC_Inventory\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+F:\office projects\UPVC_Inventory\LogicLayer\obj\Debug\LogicLayer.dll
+F:\office projects\UPVC_Inventory\LogicLayer\obj\Debug\LogicLayer.pdb
